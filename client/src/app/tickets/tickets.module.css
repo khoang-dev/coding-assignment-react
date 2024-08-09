@@ -1,2 +1,12 @@
 .tickets {
 }
+
+.bar {
+    display: flex;
+    align-items: center;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}
+.new-description {
+    width: 100%;
+}
